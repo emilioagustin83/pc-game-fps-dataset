@@ -1,10 +1,12 @@
 # PC Game System Requirements & Estimated FPS by GPU
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23162309.svg)](https://doi.org/10.5281/zenodo.23162309)
+
 System requirements for **17,400+ PC games** and **estimated 1080p frame rates on 12 reference GPUs**, from integrated graphics (Intel Iris Xe, Radeon 780M) to the RTX 4090, plus benchmark scores for **1,381 GPUs**.
 
 The data comes from [PCGameBenchmarks](https://pcgamebenchmarks.com), a free FPS calculator for PC games. Every row links to its page on the site, which has the full breakdown at 1080p, 1440p and 4K for the Low, Medium, High and Ultra presets.
 
-Also on Kaggle: [PC Game System Requirements & Estimated FPS by GPU](https://www.kaggle.com/datasets/emiliodeagustn/pc-game-system-requirements-and-estimated-fps-by-gpu).
+Also on [Hugging Face](https://huggingface.co/datasets/pcgamebenchmarks/pc-game-system-requirements-fps), on [Zenodo](https://doi.org/10.5281/zenodo.23162309) (DOI 10.5281/zenodo.23162309) and on Kaggle: [PC Game System Requirements & Estimated FPS by GPU](https://www.kaggle.com/datasets/emiliodeagustn/pc-game-system-requirements-and-estimated-fps-by-gpu).
 
 ## Files
 
@@ -33,9 +35,12 @@ Reference GPUs: Intel Iris Xe, Radeon 780M, GTX 1650, GTX 1660 Super, RTX 3060, 
 | `g3d_mark` | G3D benchmark score |
 | `page_url` | Page listing the games the GPU can run and at what FPS |
 
-### `notebooks/which-gpu-for-60-fps.ipynb`
+### `notebooks/`
 
-Example analysis: which GPU you need for 60 FPS in 2026, and how fast system requirements have grown.
+- `which-gpu-for-60-fps.ipynb`: which GPU you need for 60 FPS in 2026, and how fast system requirements have grown.
+- `gpu-requirements-by-year.py`: median minimum and recommended GPU in Steam requirements by release year (chart below).
+
+![Median minimum and recommended GPU by release year](notebooks/gpu-requirements-by-year.png)
 
 ## How the FPS estimates are made
 
