@@ -10,7 +10,7 @@ Also on [Hugging Face](https://huggingface.co/datasets/pcgamebenchmarks/pc-game-
 
 ## Files
 
-### `data/games.csv` (17,412 rows)
+### `data/games.csv` (17,427 rows)
 
 | Column | Description |
 |---|---|
@@ -65,6 +65,6 @@ To cite it, see [`CITATION.cff`](CITATION.cff) (GitHub shows a "Cite this reposi
 
 ## Updates
 
-Snapshot of 3 October 2026. The site adds new releases daily; this repository and the Kaggle dataset are refreshed periodically.
+Snapshot of 5 October 2026. The site adds new releases daily; this repository and the Kaggle dataset are refreshed periodically.
 
 Found a wrong figure or requirement? Report it at [pcgamebenchmarks.com/contact](https://pcgamebenchmarks.com/contact).

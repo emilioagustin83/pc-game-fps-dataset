@@ -5,16 +5,15 @@ title: "PC Game System Requirements & Estimated FPS by GPU"
 authors:
   - name: "PCGameBenchmarks"
     website: "https://pcgamebenchmarks.com"
-date-released: 2026-10-03
-version: "2026-10-03"
+date-released: 2026-10-05
+version: "2026-10-05"
 license: CC-BY-4.0
 doi: 10.5281/zenodo.23162309
 url: "https://pcgamebenchmarks.com"
 repository-code: "https://github.com/emilioagustin83/pc-game-fps-dataset"
 abstract: >-
   System requirements for 17,400+ PC games (as listed on Steam) and estimated
-  1080p High frame rates on 12 reference GPUs, plus G3D benchmark scores for
-  1,381 GPUs. FPS figures come from the PCGameBenchmarks model, calibrated
+  1080p High frame rates on 12 reference GPUs, plus G3D benchmark scores for 1,381 GPUs. FPS figures come from the PCGameBenchmarks model, calibrated
   against 2,070 measured benchmark results.
 keywords:
   - pc games
