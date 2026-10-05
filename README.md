@@ -1,12 +1,12 @@
 # PC Game System Requirements & Estimated FPS by GPU
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23162309.svg)](https://doi.org/10.5281/zenodo.23162309)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23162308.svg)](https://doi.org/10.5281/zenodo.23162308)
 
 System requirements for **17,400+ PC games** and **estimated 1080p frame rates on 12 reference GPUs**, from integrated graphics (Intel Iris Xe, Radeon 780M) to the RTX 4090, plus benchmark scores for **1,381 GPUs**.
 
 The data comes from [PCGameBenchmarks](https://pcgamebenchmarks.com), a free FPS calculator for PC games. Every row links to its page on the site, which has the full breakdown at 1080p, 1440p and 4K for the Low, Medium, High and Ultra presets.
 
-Also on [Hugging Face](https://huggingface.co/datasets/pcgamebenchmarks/pc-game-system-requirements-fps), on [Zenodo](https://doi.org/10.5281/zenodo.23162309) (DOI 10.5281/zenodo.23162309) and on Kaggle: [PC Game System Requirements & Estimated FPS by GPU](https://www.kaggle.com/datasets/emiliodeagustn/pc-game-system-requirements-and-estimated-fps-by-gpu).
+Also on [Hugging Face](https://huggingface.co/datasets/pcgamebenchmarks/pc-game-system-requirements-fps), on [Zenodo](https://doi.org/10.5281/zenodo.23162308) (DOI 10.5281/zenodo.23162308) and on Kaggle: [PC Game System Requirements & Estimated FPS by GPU](https://www.kaggle.com/datasets/emiliodeagustn/pc-game-system-requirements-and-estimated-fps-by-gpu).
 
 ## Files
 
