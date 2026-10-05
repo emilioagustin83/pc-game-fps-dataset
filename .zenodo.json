@@ -1,0 +1,14 @@
+{
+  "title": "PC Game System Requirements & Estimated FPS by GPU",
+  "upload_type": "dataset",
+  "description": "<p>System requirements for 17,400+ PC games, as listed on their Steam store pages, with the G3D benchmark score of the minimum and recommended GPU, and estimated 1080p High frame rates on 12 reference GPUs (from Intel Iris Xe and Radeon 780M integrated graphics to the RTX 4090). Also includes G3D benchmark scores for 1,381 GPUs.</p><p>The FPS figures come from the PCGameBenchmarks model, calibrated against 2,070 measured benchmark results (GameGPU, Notebookcheck): a typical estimate lands within about 30% of the measured result. They are estimates, not measurements. The full method, with every constant and its limits, is documented at https://pcgamebenchmarks.com/methodology.</p><p>Files: data/games.csv (17,412 rows), data/gpus.csv (1,381 rows), example notebooks.</p>",
+  "creators": [{ "name": "PCGameBenchmarks" }],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["pc games", "system requirements", "gpu", "graphics cards", "fps", "benchmarks", "steam", "video games"],
+  "related_identifiers": [
+    { "identifier": "https://pcgamebenchmarks.com/methodology", "relation": "isDocumentedBy", "resource_type": "publication-technicalnote" },
+    { "identifier": "https://pcgamebenchmarks.com", "relation": "isSupplementTo", "resource_type": "other" },
+    { "identifier": "https://www.kaggle.com/datasets/emiliodeagustn/pc-game-system-requirements-and-estimated-fps-by-gpu", "relation": "isIdenticalTo", "resource_type": "dataset" }
+  ]
+}
