@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23162308.svg)](https://doi.org/10.5281/zenodo.23162308)
 
-System requirements for **17,400+ PC games** and **estimated 1080p frame rates on 12 reference GPUs**, from integrated graphics (Intel Iris Xe, Radeon 780M) to the RTX 4090, plus benchmark scores for **1,381 GPUs**.
+System requirements for **16,600+ PC games** and **estimated 1080p frame rates on 12 reference GPUs**, from integrated graphics (Intel Iris Xe, Radeon 780M) to the RTX 4090, plus benchmark scores for **1,381 GPUs**.
 
 The data comes from [PCGameBenchmarks](https://pcgamebenchmarks.com), a free FPS calculator for PC games. Every row links to its page on the site, which has the full breakdown at 1080p, 1440p and 4K for the Low, Medium, High and Ultra presets.
 
@@ -10,7 +10,7 @@ Also on [Hugging Face](https://huggingface.co/datasets/pcgamebenchmarks/pc-game-
 
 ## Files
 
-### `data/games.csv` (17,427 rows)
+### `data/games.csv` (16,623 rows)
 
 | Column | Description |
 |---|---|
@@ -65,6 +65,6 @@ To cite it, see [`CITATION.cff`](CITATION.cff) (GitHub shows a "Cite this reposi
 
 ## Updates
 
-Snapshot of 5 October 2026. The site adds new releases daily; this repository and the Kaggle dataset are refreshed periodically.
+Snapshot of 1 November 2026. The site adds new releases daily; this repository and the Kaggle dataset are refreshed periodically.
 
 Found a wrong figure or requirement? Report it at [pcgamebenchmarks.com/contact](https://pcgamebenchmarks.com/contact).
